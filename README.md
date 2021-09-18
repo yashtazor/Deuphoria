@@ -1,6 +1,8 @@
 # Deuphoria
-This repository just contains the main game C# scripts.
 
-This game was designed by **Yash Dekate, Ayanabha Jana, Soham Sarkar for Game Programming Course (CSE 3029)**.
+This repository contains the main game C# scripts only. All the other setting and tweaks were done in Unity Editor. All the involved assets were downloaded from Unity Asset Store and all the artwork was made with Photoshop.
 
-You can find the official gameplay of Deuphoria in this google drive link - https://drive.google.com/file/d/1lFmZtCPdnJ3rLV0QoK15wplIb4kjmqBj/view?usp=sharing
+The official gameplay of Deuphoria can be found in the following link\
+https://bit.ly/3tOlLXc
+
+<b> <p align = "center"> Created by Yash Dekate, Ayanabha Jana, and Soham Sarkar. </p> </b>
