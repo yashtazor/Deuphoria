@@ -46,7 +46,7 @@ Shoot | <img src="https://icon-library.com/images/left-mouse-button-icon/left-mo
 Pick Item | <img src="https://static.thenounproject.com/png/394671-200.png" width="100">
 Heal | <img src="https://www.techonthenet.com/clipart/keyboard/images/letter_e.png" width="100">
 
-See the official [gameplay](https://drive.google.com/file/d/10dsFIDXR72tjpaeSFw_c7K45vLR2TGKd/view?usp=sharing) of Deuphoria.
+See the official [gameplay](https://youtu.be/LtJeaR-ufnQ) of Deuphoria.
 
 # Contributors
 <b> <p align = "center"> Created by Yash Dekate, Ayanabha Jana, and Soham Sarkar. </p> </b>
